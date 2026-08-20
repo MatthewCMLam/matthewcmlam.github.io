@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Matthew C. M. Lam"
 author_profile: true
 redirect_from: 
   - /about/

@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Matthew, an M.Phil. student in Risk Management Science at CUHK under the supervision of Prof. Philip Yam. I received a Bsc in Quantitative Finance and Risk Management Science (First Class Honour), with minor in Mathematics and Statistics, from CUHK.
+I am Matthew, an MPhil student in Risk Management Science at The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Philip Yam. I received a BSc in Quantitative Finance and Risk Management Science with First Class Honours, along with a minor in Mathematics and Statistics, from CUHK.
     
 Please refer to my CV for details.
